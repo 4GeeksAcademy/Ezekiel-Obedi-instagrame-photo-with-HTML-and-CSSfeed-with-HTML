@@ -1,0 +1,11 @@
+.navbar{
+    background-color: white;
+}
+.post-list{
+    background-color: #ebeaeb;
+}
+.post{
+    background-color: white;
+    width:400px;
+    height:500px;
+}
